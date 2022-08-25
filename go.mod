@@ -8,8 +8,8 @@ require (
 	github.com/go-chi/cors v1.2.1
 	github.com/go-chi/render v1.0.2
 	github.com/gofrs/uuid v4.2.0+incompatible
-	github.com/jeelsboobz/websocket v0.2.0
 	github.com/insomniacslk/dhcp v0.0.0-20220822114210-de18a9d48e84
+	github.com/jeelsboobz/websocket v0.2.0
 	github.com/miekg/dns v1.1.50
 	github.com/oschwald/geoip2-golang v1.8.0
 	github.com/sirupsen/logrus v1.9.0

@@ -22,8 +22,8 @@ require (
 	github.com/gofrs/uuid v4.2.0+incompatible // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/btree v1.0.1 // indirect
-	github.com/jeelsboobz/websocket v0.2.0 // indirect
 	github.com/insomniacslk/dhcp v0.0.0-20220822114210-de18a9d48e84 // indirect
+	github.com/jeelsboobz/websocket v0.2.0 // indirect
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
